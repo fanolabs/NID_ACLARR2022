@@ -1,0 +1,1001 @@
+text	label
+Reverse engineer (oracle) schema to ERD	2
+Whether to enable a security-protected feature	5
+Migrating to Team System from SVN & Cruise Control.NET and back	3
+How to tell Apache ignore/block 404 error and redirect to hander page?	4
+Does DotNetNuke have anything similar to Drupal's CCK?	17
+How to get Oracle create table statement in SQL*Plus	2
+Reloving AliasRecord with relative path on a new volume	9
+What does the following function do?	16
+How can I use linq to sort by multiple fields?	18
+Read entire file in Scala?	13
+Mirroring perforce with SVK?	3
+GroupBy with linq method syntax (not query syntax)	18
+How do I gather data from the same collumn in multiple worksheets in a single workbook?	5
+Retreiving Values From Excel Merged Columns	5
+Table view not updating according to bindings - Part Deux	9
+How do you change the look of a check box?	8
+Compare lists and get values with Linq	18
+Apache Django URL problem	4
+MODIFY COLUMN in oracle - How to check if a column is nullable before setting to nullable?	2
+Having some confusion with LINQ	18
+Hibernate -using Table per subclass - how to link an existing superclass object to a sibclass object	12
+AJAX presentation ideas!!	15
+Spring 3: task namespace: How to find out time of next execution?	11
+Query Microsoft Access MDB Database using LINQ and C#	18
+How to insert a new line character after a fixed number of characters in a file	10
+@Resource annotation not injecting a subclass	11
+Multiple responses from one AJAX request	15
+how do you normalize a file path in bash	10
+HQL Query using group by	12
+How to tell QWebPage not to load images?	16
+SpringJUnit4ClassRunner tests -- work from ant, not from IDE	11
+Oracle Query Optimization	2
+Subversion does not remember my user/password	3
+Hibernate MySQL transaction configuration issue	12
+Magento help with creating model in custom class	20
+How to test an AJAX application that is pulling data from a live website?	15
+Is ODP.NET required for Oracle 11g Client?	2
+Need to retrieve List of items containing subitems matched with another List	18
+Linq Expresion Tree	18
+Wordpress first run show a 404 error	1
+match tuple with null	13
+Mac Dev - How to refresh view for 2d game?	9
+Strange behaviour when accessing Oracle 8i table from servlet	2
+Matlab 2009b & .NET	6
+Hibernate: batch_size? Second Level Cache ?	12
+How many concurrent AJAX (XmlHttpRequest) requests are allowed in popular browsers?	15
+How can i interchange the row and column of an input data in matlab	6
+WordPress: How to display only posts that are in a certain category?	1
+Convert Scala Set into Java (java.util.Set)?	13
+Best way to add python scripting into QT application?	16
+How do you declare a by-reference parameter variable for use in a Linq query?	18
+Drawing on desktop in Mac OS X	8
+How do you deal with saving an attribute related to an object not yet created, via AJAX?	15
+Some help with hibernate Criteria query	12
+Ajax-driven complex layout RIAs and mvc frameworks	15
+How to change the theme of Person.aspx in SharePoint My Sites	14
+"How can I use the ""Publish"" function in Visual Studio 2008 without erasing the contents of the target folder?"	7
+Easy parallelisation	10
+Sharepoint/WSS: helping writing xpath conditional expression	14
+Wordpress: wp_get_attachment_thumb_url	1
+Haskell: parsing PDF	19
+LINQ with Subquery/Group By/Join	18
+How to remove trailing whitespace in a database column?	12
+Restrictions in trait mixing	13
+Update Item attribute in sharepoint using web services	14
+Avoiding, finding and removing memory leaks in Cocoa	8
+javascript, html and browsing, is there an easy solution?	15
+Magento export product problem	20
+How to filter child collections in Linq.	18
+What is the relationship between unboxed types and strictness?	19
+Excel VBA SVN Client / Integration	5
+Migrating MOSS 2007 from SQL 2000 to SQL 2005 - Addendum	14
+How do I redirect to my same URL without getting a too many redirects error?	4
+Why doesn't git-svn use the Subversion repositories UUID instead of its URL	3
+SVN performance after many revisions	3
+Can I compile legacy MFC applications with Visual Studio 2008 ?	7
+Create Multiple 'Posts' lists in one SharePoint Web.	14
+Drupal vote_up_down module reporting incorrect points	17
+Why does wdiff not work with named pipes	10
+Spring - Aspect is not getting applied at runtime	11
+hibernate query problem, so close and stumped...	12
+Apache gives me 403 Access Forbidden when DocumentRoot points to two different drives	4
+How to use system environment variables in VS 2008 Post-Build events?	7
+"How to ""Add Existing Item"" an entire directory structure in Visual Studio"	7
+Spring Web Flow	11
+Spring- How to use Springs Dependancy Injection to write a Standalone Java Applicaiton	11
+magento template creation	20
+Nginx (as front end to Apache) to serve WP Super Cache static files	1
+References for learning the theory behind pure functional languages such as Haskell?	19
+Performing an update with LINQ	18
+How can I keep on the fly application level statistics in an application running under Apache?	4
+QByteArray to integer	16
+Searching object property in a predefined list using HQL	12
+Spring Entity to use Service, possible design flaw, but still....	11
+Unable to publish web app: SpringSource Tool Suite problem?	11
+Visual Studio 2008 - Customise right click menu	7
+How to encode url in apache rewrite?	4
+"Visual Studio Error: The ""GenerateResource"" task failed unexpectedly."	7
+Genealogy Query in Oracle	2
+How to process file names with variables from a list in a file in Bash	10
+set of n-linear equations in matlab	6
+mac osx development environment	9
+Multiplying numbers on horizontal, vertial, and diagonal lines	19
+OSX - Retrieve user id of logged-in user from a system service	9
+Platform or tools for merging & filtering spreadsheet data online?	5
+Getting Exception for Spring File upload (Urgent)	11
+Excel copy worksheet	5
+How to add a method to a Scala Enumeration object?	13
+LinqToEntities not retrieving child objects of an entity	18
+Type Matching in Haskell	19
+Getting the current stack trace on MacOSX	9
+How to make ensime work in windows?	13
+Visual Studio 2008: make ctrl-k, ctrl-n (next bookmark) stay within the same file	7
+QPainter fails when calling begin	16
+Linq To Entities Generating Big Queries	18
+Spring MVC and JSF navigation rules together	11
+Extracting generic Linq queries	18
+How to recognize overflow bugs in Matlab?	6
+"Moss 2007 SSP Error ""Search application '{0}' is not ready."""	14
+Best source control package	3
+What design pattern should I use to create an easy binding map between a query and textboxes for Linq search screens?	18
+How do I insert sysdate into a column using ODP and an XML dataset?	2
+Howto Speedup Visual Studio(2005/2008) Toolbox initialization	7
+price filter problem in magento	20
+How do I remove every occurance of a value from a list in haskell using Prelude?	19
+Haskell: Why is it saying my function type is off?	19
+Remove progress bar from published document in MATLAB	6
+Overloading on return type ???	13
+bash/cygwin/$PATH:  Do I really have to reboot to alter $PATH?	10
+Conditional median in MS Excel	5
+How do I call a Sharepoint Webservice from a c# client using Kerberos authentication ?	14
+How Can Wordpress Easily Provide A Voting and Commenting View For 5 Page Layout Possibilities?	1
+WHy can't I correctly parse this date string with NSDateFormatter?	8
+Drupal : Drupal6 views : Filter restriction	17
+How Do I Loop Through An Excel Spreadsheet With VBA, Paste A Value To A Website Form Then Extract The Result Back?	5
+Automatically creating a tag in subversion	3
+Can I define Default Sort order in LinQ	18
+"Does It Make Sense to Move to 64-bit for a ""Typical"" Mac OS X Application"	9
+Can I pass an arbitrary block of commands to a bash function?	10
+Oracle lag between commit and select	2
+How do I set specific environment variables when debugging in Visual Studio?	7
+read folders and any document properties from excel?	5
+Define DAOs in spring when the datasource is varying dynamically	11
+How to check for an exploding zip file in bash?	10
+verboseCheck in QuickCheck 2?	19
+Remembering terminal states in OS X (like Fluid for the shell...)	9
+What leads to a no suitable image found error on Mac OS X?	8
+Cannot hide Controls in NSView	8
+Interesting Scala typing solution, doesn't work in 2.7.7?	13
+MATLAB: Assign multiple colors to text in legend	6
+Qt goes LGPL!  On Windows, is it good enough to use instead of MFC?	16
+Accessing a VSTO application-addin types from VBA (Excel)	5
+Python OS X 10.5 development environment	9
+Getting duplicate entry errors from Hibernate, is MySQL to blame?	12
+SVN: Can I copy a subset of files to a new tag?	3
+Code template's indentation is buggy for code behind files in VS2005?	7
+LINQ - Help me grasp it with an example I think LINQ should be able to solve!	18
+What is the proper JPA mapping for @Id in parent and unique sequence in base classes	12
+LINQ SQL query check if a obect field is not null	18
+Excel Vs C# Number Differences	5
+Can I programaticaly replace one webpart with another in Sharepoint?	14
+Performance of Oracle .Net drivers	2
+What is the purpose of zones in sharepoint? (web application zones or authentication zones or how do they call it)	14
+Ajax Response from  CGI program	15
+How can I access specific subsets of a large NSDictionary in Cocoa?	8
+Why does drupal_get_title() return empty on a Views page?	17
+issue with QT slider signal/gui	16
+What kind of CAL do I need for Sharepoint?	14
+Apache with SSL - How to convert CER to CRT certificates?	4
+were is the mistake in my code	16
+How to undo removal of a file in svn	3
+Wordpress: How do I convert a generated URL (permalink) to a pretty URL?	1
+How can I add an onmouseover event to all drupal forms?	17
+How do you know what a good index is?	2
+QT: having problems responding on QWebView::linkClicked(QUrl) - slot signal issue	16
+Where is my Drupal View pager?	17
+Bash script to archive files and then copy new ones.	10
+How to use dll's in the same directory as an excel file	5
+QTreeView stylesheet customization problem with scrollbar	16
+.Net Localization problem	5
+Out to merge a collection of collections in Linq	18
+Getting specific revision via http with VisualSVN Server	3
+Another Java vs. Scala perspective - is this typical?	13
+Scala @ operator	13
+MATLAB settings - stop if errors	6
+Simple question about text in Matlab	6
+Split a collection into n parts with LINQ?	18
+Sharepoint List webservice error on CheckoutFile method	14
+how to return variable from the function called by onreadystatechange=function()	15
+Wordpress root directory	1
+Magenot: Difference between loading product through collection than product model	20
+Solution items cross several web projects in Visual Studio	7
+Magento with Mailchimp -----adding checkboxes programmatically	20
+Writing applications with Scala actors in practice II	13
+Overcome Wordpress Memory Exceeded Limit, WITHOUT changing server's limit.	1
+what is the best strategy  to retrieve form data? client ajax / server	15
+SharePoint list.items.GetDataTable column names not match field names	14
+Declaring functions two ways. What is the distinction?	13
+How do I get spring to inject my EntityManager?	11
+how to detect that localhost web site is closed and then shout apache web server	4
+"""Beautifying"" an OS X disk image"	9
+definition of filter function with foldr, in haskell. i want to see if i understand how it's working.	19
+How do I use the least squares approximation in MATLAB?	6
+Is it possible to AJAX a file upload?	15
+Binding Qt to LLVM	16
+How to change style for nodes in NSOutlineView?	8
+Find all .rpt files in VS solution	7
+What are some clever uses of LINQ?	18
+Configuring mod_rewrite and mod_jk for Apache 2.2 and JBoss 4.2.3	4
+"Re-Initializing ""ThisWorkbook.Path"""	5
+Error while loading xls file in matlab?	6
+How best to convert a SharePoint multi-user field string into an array of SPUsers?	14
+Hibernate, aliases	12
+Oracle Rollback Segments and ADO.NET	2
+Sharepoint Search Property Weighting	14
+Cocoa - Return information from NSOperation	8
+How do I turn on line numbers by default in TextWrangler on the Mac?	9
+Is this a correct way of writing the Haskell foldr function?	19
+Jquery AJAX not working on IE 7/8	15
+Is there a difference between delegate/selector and target/action?	8
+Inserting into Oracle the wrong way - how to deal with it?	2
+Scala HMAC-SHA1 signing?	13
+How do I test for an Oracle connection	2
+How to print integer literals in binary or hex in haskell?	19
+Excel VBA to Oracle Algorithm	5
+Using $@ properly (BASH)	10
+Practical examples of using symbols in Scala?	13
+Spring MVC isFormSubmission() equivalent for annotations?	11
+calling Qt's QGraphicsView::setViewport with a custom QGLWidget	16
+how to add image to each category in wordpress?	1
+Best tools for AJAX	15
+MetaStorm Ework and SharePoint 2007	14
+(type theoretical) How is ([] ==) []  typed in haskell?	19
+hibernate post initialization	12
+Theming the default search results page in Drupal	17
+How to wire Interdependent beans in Spring (Deferred property binding)?	11
+Why is caching answers taking LONGER in MATLAB?	6
+Orcad / Matlab: How to plot the roots of a polynomial	6
+How to protect image on Excel sheet	5
+Drupal Menu System - Outputting a Tree One Level Down	17
+Good Haskell coding standards	19
+Print certain tabs	5
+Calculate difference between 2 date / times in Oracle SQL	2
+"Excel Interop ""FindAll"" Method"	5
+initialise a var in scala	13
+Removing javascript created content...	15
+Why Visual Studio doesn't create a public class by default?	7
+Moss Farm Issue (Front End) Web Application Service Won't Start...	14
+Why does Visual Studio 2008 forget where to dock my add-in's window pane?	7
+Custom styles for custom widgets in QT	16
+Count matching characters between two strings using LINQ	18
+How to force Hibernate 3.3 or 3.5 to use CGLib instead of Javassist?	12
+This seems awfully repetitious for Scala...	13
+"Is there a Snow Leopard compatible ""sudden motion sensor"" API available?"	9
+how to print just the popup window	17
+Make Visual Studio's Find in Files default to the project directory?	7
+How to permanently remove a breakpoint in Visual Studio 2005 /2008 (ASP.NET, C#)	7
+Redirect 404 to another domain with apache?	4
+Crash Reporter for Cocoa app	8
+[bash] Fill placeholders in file in single pass	10
+Excel VBA custom function with sumif-like criteria functionality	5
+bash command to repeatidly emulate keypress on a proceess	10
+Very slow compile times on Visual Studio	7
+Select from Select statement?	2
+Do Visual Studio 2005 testing tools contain tools for mocking?	7
+How to run Eclipse 3.4.1 on MacOS 10.5.6?	9
+Compile scala classes with debug info through Maven	13
+Delimitter for string value for Ajax response	15
+Running a command with every svn commit	3
+Drupal: Custom Content Type validation	17
+"Is it possible to send custom headers with an XHR (""Ajax"" request)?"	15
+Detecting https requests in php	4
+Which set of modules must I use to add a google map linked to an address in Drupal?	17
+How an AJAX application informs client the events fired in server?	15
+Howto: enable anonymous surveys in sharepoint	14
+Magento - Custom Payment Module	20
+How can I clear the Warnings sections of the error list In VS2008?	7
+ETL , Esper or Drools?	11
+How to setup Hibernate @ManyToMany association with cascades on both foreign keys?	12
+Better way of calling a function in child thread in Qt?	16
+"Magento - Using alternative ""reviews count"" on category list page"	20
+Securing xml plists in Cocoa / Objective C	8
+Getting properies from SharePointWebControls	14
+How to use second level cache for lazy loaded collections in Hibernate?	12
+Create a view that displays node count?	17
+Rewrite rules - going outside the docroot.	4
+OS X Data Storage in PLIST Example or Tutorial?	9
+oracle: how do I get the sequence number of the row just inserted?	2
+Blog wordpress-moveble type	1
+Is there a way to get Apache to serve files with the question mark in their name?	4
+Hibernate - How to use an Enumeration as Map's Key	12
+Customize the theme output for the search box in Drupal	17
+Magento Custom Field Defines Product	20
+Table and List view with single Model in Qt	16
+Problem in using indexes with SQL Server 2005 and Hibernate	12
+Bash and Mac OS X, open application in Space N	10
+Excel copy and paste	5
+WordPress Plugin Coding Problem	1
+Passing a milliom numbers from java to matlab?	6
+How do I get only the selected products from an order object?	20
+What is the missing parameter in connection pooling?	12
+calling a stored proc over a dblink	2
+Using custom response headers to help detect site transfers	4
+Flatten One-to-Many Relationship Using Dynamic LINQ	18
+Scala: Why are Actors lightweight?	13
+Is there a way to refresh Magento *Catalog* (not Shopping Cart) prices with a Coupon code?	20
+AW Blog (Create Bookmarklet Feature)	20
+Is form display dependent on development machine in Visual Studio?	7
+[Spring] Using beans from other modules?	11
+how to use ping in a script	10
+Sharepoint Workflow Modification is not disabled	14
+Can I have a collection of IUserType instances?	12
+"WAIT for ""any process"" to finish"	10
+VS get returned value in C# code ?	7
+How to tab between buttons on an OSX dialog box	9
+Qmake project dependencies (linked libraries)	16
+Hidden features of Qt.	16
+How can I hook up to Excel events in Javascript	5
+Script to Add User to Wordpress	1
+Compiling and using spl2c on Mac OS X 10.6	9
+Drupal relative link problems moving from mydomain.com/test to mydomain.com	17
+Mac Terminal.app annoying bug - How to fix it?	9
+Extracting text from an IEnumerable<T>	18
+Drupal Views Multiple values being returned when using a relationship	17
+Is there a non-scripting language for Linux/Apache?	4
+How do I Get the Autcomplete Control script side with a Script control (ASP.Net)	15
+Move wordpress from home web server to web server hosting account	1
+HTTP communication monitoring on OS X	9
+"Configuring Apache to route ""GET /user/foo"" to /user/GET.php and ""PUT /user/foo"" to /user/PUT.php"	4
+Spring Webflow: cannot get flow execution url at action phase of portlet	11
+Copy method fail due to memory	5
+Sharepoint updating custom database	14
+How to programatically  do file versioning with SVN and .NET?	3
+How to find the current name of the test being executing?	7
+Experience compiling and building Qt	16
+Up to date asp.net page	15
+Is there an QPointer specialization for boost::bind	16
+How to wait in bash for several subprocesses to finish and return exit code !=0 when any subprocess ends with code !=0 ?	10
+Where to find volume mount icon on Leopard	9
+Linq iterate a control collection	18
+"How to include the sqlite3 library ""libsqlite3.0.dylib"" in my application source file?"	9
+svn revision number	3
+Help with wordpress and adding jquery please	1
+Problems with LINQ	18
+Subversion: how to nuke a repository?	3
+Hibernate + Postgresql with case insensitive searching	12
+Table Lookup in Excel	5
+How would you set up an Subversion repository for in house software projects	3
+private/public qt signals	16
+How can I restrict the visibility of a custom list action to a newly defined group	14
+How can I get my website to display a .c file instead of trying to make the user download it?	4
+.htaccess folder protection	4
+Monitor Cocoa apps for execution of external utilities (e.g., ffmpeg) on Mac OS X ?	9
+Should I use QCoreApplication::processEvents() or QApplication::processEvents()?	16
+Mac Resource editor in Snow Leopard?	9
+Simple AJAX code not being recognized	15
+How many RewriteRules can you have in .htaccess without trouble?	4
+How do get the index of a table's column by using a structured reference in excel?	5
+reindex Catalog URL Rewrites in magento never ends	20
+What's the right way to divide two Int values to obtain a Float?	19
+Why does subversion chown/recreate files on checkin?	3
+How to auto-resize qt widget?	16
+Bash or Python for extracting blocks from text files	10
+Cocoa control for keywords/tags	8
+Running other java versions on OSX	9
+Grails formRemote redirects rather than to just call method	15
+Remove duplicates in List specifying equality function	13
+Scala lift framework, ajax form that submits multiple values?	13
+ajax post special characters	15
+Performance of Dynamic SQL with Bind vs Normal SQL within Package	2
+Set up a specific SVN Repository	3
+multiple grouping, inner joning in Linq	18
+How do do ajax navigation on pageload ?	15
+spring jdbc RowCallbackHandler nightmare	11
+modem.oqpskmod -> modem.oqpskdemod not same result	6
+Drupal - Webform element theming	17
+attribute select magento query	20
+Excel AutoFill problem	5
+Excel - calculating durations of time data spread across multiple rows	5
+Add email field to comment drupal	17
+VSS front end for SVN	3
+Type error while trying to implement the (>>=) function in order to create a custom monad transformer.	19
+Can I add object field to SPItem, to attach some kind of object to item?	14
+Getting unique result in Hibernate	12
+Binding a custom NSView: Does it demand creating an IBPlugin ?	8
+How to create bean of type Class?	11
+How to deploy Sharepoint publishing site with multiple sites	14
+Curves in matlab	6
+Packaging an excel addin	5
+Using NSProxy and forwardInvocation:	8
+is it possible to migrate a single component from one svn repository to another while preserving history?	3
+Including String Expressions in bash Commands	10
+"WordPress: Is it possible to have ""rss content"" AS the ""post"" itself on blog.wordpress.com?"	1
+Web Client Software Factory Unit Testing Big Fail	7
+Best practices for handling a web service failure	15
+Ajax loading gif	15
+SVN accident, overwrote some key changes in my file and commited to repository.  Can it be recovered?	3
+A list of things from Java that we will now happily bid good-bye after Scala	13
+On Mac OS X 10.5 what determines PATH value before /etc/profile?	9
+How do I persist a Java property of type Object using Hibernate?	12
+Linq: recursively get children	18
+How do I use CREATE OR REPLACE?	2
+[Magento] Product selection grid while placing order from admin section	20
+MATLAB: Can axes tick labels be accesed as text objects?	6
+What is the best way to make files live using subversion on a production server?	3
+JS functions not working while loading html using Ajax	15
+Is there a tool that can display a SVN repository visually ( i.e. pretty charts )?	3
+Submitting a Rails form with jQuery and Ajax	15
+Spring: Programmatically use PropertyPlaceHolderConfigurer on none Singelton Beans	11
+Changing the root_dir on a magento system	20
+How do I execute a command from a specific directory with actually changing to that directory	10
+How to use AJAX in DRUPAL	17
+Where is the ASP.NET MVC AJAX documentation?	15
+Can I rely on mod_rewrite?	4
+What stylesheet gets used by loading ajax content?	15
+"Programmatic equivalent of ""Visible at Launch"" for NSWindows"	8
+How to determine change statistics between revisions	3
+Scala actors as single-threaded queues	13
+Optimizing Oracle instances	2
+Excel VBA Project - Password Removal	5
+Bubble sort algorithm implementations (Haskell vs. C)	19
+Haskell Bad Interface File	19
+Are there any purely functional Schemes or Lisps?	19
+Confusion with ContT, callCC, when ...	19
+Oracle Check Constraint	2
+Invoking drupal	17
+Are AJAX sites crawlable by search engines?	15
+how to change source file encoding in csharp project (visual studio / msbuild machine)?	7
+EntityManager.merge inserts duplicate entities	12
+Creating monads in haskell	19
+How to choose and optimize oracle indexes ?	2
+"""does not contain"" in CAML ?"	14
+How to get Intellisense on error-marked code in Visual Studio 2005?	7
+Drupal: customizing user registration workflow for communicating with another webapp	17
+How to add ^ to matlab ?	6
+How to keep implementation/maintenance costs low in Pro*C?	2
+On QT widgets like DoubleSpinBox or ComboBox, how do i have custom right click menu	16
+Use 'map' and stuff on Scala Tuples?	13
+Modify automatically an attribute with magento	20
+NHibernate one-to-many relationship lazy loading when already loaded	12
+Oracle Scheduled Jobs	2
+NSView with variable number of items inside	8
+In Visual Studio you must be a member of Debug Users or Administrators to start debugging. What if you are but it doesn't work?	7
+Drupal: How to implement a SECOND admin with fewer rights than the normal and own theme?	17
+Using Win32 API in Qt OSE project	16
+Magento - zend - backend error	20
+Exception thrown after processing onSubmitAction	11
+LINQ to SQL entity column name attribute ignored with guid primary key	18
+Multiple Oracle Clients	2
+BASH Variables with multiple commands and reentrant	10
+Change the customer password field Magento	20
+Split string in Linq select statement	18
+when using @transactional do i need to use jpatemplate/hibernatetemplate ?	11
+Why a hard coded string var is changing when the bash script is run as root ?	10
+Plotting data on time (date) axis in matlab	6
+Haskell: Custom types with conditions	19
+how can I find the parameters of matrix-equation in matlab?	6
+Future posting with dateCreated in Wordpress via XMLRPC in Ruby	1
+Disjoint Union in LINQ	18
+adding oracle's timestamp to query results	2
+Statistics toolbox in Matlab	6
+How to use separat block caches for secure and unsecure shop access in Magento?	20
+Problem migrating Spring Web App from tomcat 5.5 to tomcat 6.0	11
+How do you manage your run once sql install scripts in subversion?	3
+Linq Question: Where on a Select	18
+CoreAudio AudioUnitSetProperty always fails to set Sample Rate	9
+Interpolating 1D Gaussian into 2D Gaussian	6
+Spring's JMS Design Question : Decouple processing of messages	11
+How do I view all ignored patterns set with svn:ignore recursively in an svn repository?	3
+SharePoint 2007 Approval Workflow - Any other person can approve requirement	14
+Editing SQL query with Visual Studio 2008	7
+problem saveOrUpdate object Hibernate (a different object with the same identifier session)	12
+hibernate Open Session in View	12
+How to make a Scala Applet whose Applet class is a singleton?	13
+How can I connect the pressed() signal of 32 buttons to a single function without declaring 32 slots?	16
+"A dynamic array of class ""landmark"", inside another single class ""landmarks"""	6
+Types in Haskell	19
+Apache, SVN and mod_python	3
+How to get a distinct result, but return another column in the select?	12
+How do I use POST with ajax?	15
+How to make apache slow and unreliable?	4
+best scala idiom for find & return	13
+Automated Apache Server Maintenance Page	4
+Resolving SVN merge postponed conflicts recursively	3
+scala: PartialFunction with state	13
+What should I replace this code with?	8
+Add content between Wordpress queried posts	1
+Can I use ODAC 11g to access 10g	2
+SVN Client integrated with OS X's Finder	9
+Oracle: loading a large xml file?	2
+What is the difference between a hash join and a merge join (Oracle RDMBS )?	2
+Linq Caveats	18
+Impose access limits from Apache to prevent scraping ?	4
+What is the drupal way for wysiwyg reply edit box?	17
+SVN Repository Structure - Why is this better?	3
+Debugging mod_rewrite rules without RewriteLog?	4
+How to execute program which have created Qt on windows?	16
+Drawing massive amounts of data in NSView, or something else?	8
+Password Protect for fun	1
+Excel VBA returning weird results with large calculations	5
+Duplex or request-reply with Apache ActiveMQ WCF Binding configuration question	4
+How to get the category title in a post in Wordpress?	1
+Strange classes passed from matlab to java	6
+New Line Haskell	19
+Matlab object array method dispatching	6
+How can I pass a class name as an argument to an object factory in cocoa?	8
+Accessing a remote file with a SharePoint Web Part	14
+Tips on speeding up Drupal site	17
+explain largestDivisible code from the Learn You A Haskell for Great Good tutorial	19
+Spring Connection Pooling	11
+are scala's mouse events working? how?	13
+QMetaObjec::invokeMethod returns true, but method is never called	16
+How to get Custom Options Programmatically in Magento	20
+"Updating from svn repository returns ""Could not read chunk size"" error"	3
+How to avoid blinking when updating page from ajax	15
+No error message available, result code: E_FAIL(0x80004005)	5
+bash: how _best_ to create a script from another script	10
+org.hibernate.HibernateException: No session currently bound to execution context	12
+Setting date cell format in excel xml	5
+CodeRush for C# issues	7
+oracle objects and collections	2
+QProcess::setStandardOutputFile only creates 0kb File	16
+Installing Apache Web Server on 64 Bit Mac	4
+How to confirm a command in every bash loop	10
+libtiff.3.dylib: unknown required load command 0x80000022	9
+Using MatLab to calculate signal:noise ratio	6
+Excel VBA development best practises	5
+Wordpress: Find posts in category 1 and not in category 2	1
+Assigning random colors per session, for chat	15
+Apache | AB | socket: Cannot allocate memory (12)	4
+Modify Latest Blog Posts in WordPress	1
+Dropdown Menus In Drupal?	17
+How do I determine which service pack Visual Studio is running?	7
+How to zip multiple lists in Haskell?	19
+pass sheet to a function (excel vba)	5
+SharePoint - Get a list of current users	14
+How to get the clicked menu items $mlid in Drupal?	17
+Constants in MATLAB	6
+Houghlines in Matlab	6
+Magento - get list of items from orders for specific date range	20
+Bash Completion: What can we do with it, what lies in the future.	10
+IS classOf[] in scala 2.8 different from 2.7?	13
+Error-tolerant XML parsing in Scala	13
+Cross-site AJAX requests	15
+Hibernate resolve foreign key lookup id by name	12
+Oracle Transactions	2
+How to magnify/stretch a texture with Matlab Psychtoolbox (OpenGL)?	6
+LazyInitializationException with session scoped bean	12
+PyQt, Qt, one event handler working with many items	16
+Haskell - Redefining (hiding) arithmetic operators	19
+Catching Control-C exception in GHC (Haskell)	19
+image upload problem	12
+Removing .htaccess Authentication Restrictions	4
+How to scale a UIImageView proportionally ?	8
+QObject::connect issues with QAbstractItemModel	16
+NSTableView selection & highlights	8
+How to Search within json document in apache solr lucene	4
+How do I Romove Specific Characters From File Names Using BASH	10
+How to programmatically modify content in a SharePoint Web Part?	14
+Getting the tags for a post in a Wordpress plugin	1
+Add upload feature to Magento CMS	20
+cocoa + display digital certificates	8
+RSS <link> tag not appearing in <head> of Drupal view page display output	17
+PWM/clock signal generation from a USB-1024HLS DAQ board	6
+script-file vs command-line: problem with rsync and --exclude	10
+Magento: Column not found: 1054 Unknown column 'e.display_price_group_0' after rebuilding flat catalog product	20
+Sharepoint for a C# Asp.net Developer	14
+Scala 2.8 Actors	13
+Hibernate-like framework for C++	12
+Caching a resultset	11
+How do I solve this possibility problem with MATLAB?	6
+Drupal: how to rate node filefields?	17
+drupal_render: how to make well-formed div structure of the form?	17
+Does Haskell have Variables	19
+Update SubmitChanges() - does not update.	18
+How to nest Spring JMS MessageConverters	11
+What do you do about references when unloading a project in Visual Studio?	7
+SVN and accented characters	3
+How to get a list of product categories and their ID's from Magento?	20
+Hibernate on hypersonic in prodaction?	12
+Will there be IQueryable-like additions to IObservable? (.NET Rx)	18
+Spring, Hibernate, EntityManager and class inheritance	11
+Drupal - Migrating to new server	17
+I'm having an issue with a scala script using 2.7.7 - Main$$anon$1$$anonfun$1$$anonfun$apply$2	13
+Getting Oracle client to work on Windows 7 RC	2
+Seqential & continuous invoice number in Hibernate / ColdFusion ORM?	12
+spring annotation configration issue	11
+BASH, escaping single-quotes inside of single-quoted strings	10
+how to handle PermGen space exception in Apache	4
+Spring/Eclipse 'referenced bean not found' warning when using <import>?	11
+Simple page submit - vs - Ajax loader	15
+need for tool for video processing	6
+C++ FileIO Pointer Leak error	9
+Set default values for a global variable in a custom class?	8
+Adding sorting to a view on Drupal?	17
+Beginner LINQ to XML inline XML error	18
+"Is it normal for ""rsyslogd"" to cost 170M memory?"	10
+Switch from SVN to GIT for C# developments?	3
+Best way to organize a subversion repository of many small projects	3
+Problem with y-axis in Matlab Diagram	6
+iPhone SDK on PowerPC?	9
+How do I add Paging to a sharepoint DataFormWebPart?	14
+Linq to NHibernate vs. ICriteria	18
+MATLAB Sorting by custom condition	6
+Extracting time zone from Oracle JDBC TIMEZONETZ object	2
+Is it possible to create autorun hybrid CD/DVD on Max OSX Tiger/Leopard?	9
+How do I dismiss a sheet with the escape key?	8
+Javascript if(function_foo()) doesn't wait for function_foo() to complete	15
+Spring Faces Error faces:flow-builder-services	11
+Spring JSR303 validation doesn't work like described in Spring Documentation	11
+Can a custom guard mechanism be defined in Haskell?	19
+CATransform3D vs. CGAffineTransform?	8
+Workflow engines that integrate easily/work well with Spring Web?	11
+substituting an Excel worksheet for an Access database	5
+Find float in a text file	10
+Feedback/Experiences with Monodevelop on the Mac?	9
+Does Scala run on GWT?	13
+wordpress contact or message pages	1
+Check to see if Visual Studio can load an assembly	14
+Creating an .exe file from an excel spreadsheet	5
+Can First-class functions in Scala be a concern for allocating a large PermGen Space in JVM?	13
+How to setup a Subversion (SVN) server on GNU/Linux - Ubuntu	3
+make AppleScript program that listens systemwide for shortcuts	9
+Wordpress Install on OS X Snow-Leopard under Sites/public for use with capistrano	1
+How can you change the Visual Studio IDE profile?	7
+What’s a good way to deal with a german keyboard when using Emacs on Mac OS X?	9
+Getting started with Oracle application development	2
+Ways to call Blocks within Magento: createBlock vs Layout xml file	20
+Exporting Excel cell data to database via Excel macro?	5
+how to pass a java object as a parameter to a matlab function	6
+"printing 4""x6"" cards in OSX (cocoa)"	9
+How does Qt implements signals and slots?	16
+WordPress Post Date Changes On Update	1
+Xcode gcc exit status 1	9
+SharePoint List Column Today's Date	14
+how can i simplify an expression using basic arithmetics?	19
+Reading from a file not line-by-line	16
+Change the language of a website in Sharepoint 2007?	14
+Downside to using persistent connections?	4
+Checking for the presence of text in a text column efficiently	2
+Visual Studio color theme	7
+Why does Haskell interpret my Num type as an Enum?	19
+O(1) conversion from mutable.Map to immutable.Map?	13
+Magento New Products Block	20
+Database-sessions in Spring	11
+LocationMatch and DAV svn	3
+Dynamic Results and Covering Data	8
+NSMutableArray memory management	8
+Bash Customizations	10
+Better way to make a bash script self-tracing?	10
+HQL query equivalence: Why are them different	12
+Issues with programming General Cross Correlation (GCC) in matlab	6
+How can I force invalidation of a Cocoa program without additional custom code?	8
+problem with RewriteRule and apache	4
+How to cache a collection in Magento?	20
+Sending messages to objects while debugging Objective-C in gdb, without symbols.	9
+How to best update a website from subversion.	3
+How do you use Control.Applicative to write cleaner Haskell?	19
+Using QSortFilterProxyModel with a tree model	16
+Writing a web application in excel? Why not?	5
+how to disable window close button in OSX using wxpython?	9
+Haskell streams with IO effects	19
+magento admin usernames	20
+Problems commiting file to SVN repository	3
+Why does this Haskell statement not evaluate lazily?	19
+.NET Development on a Mac Tips	9
+Range checking in Haskell's case?	19
+how to deploy web.config modifications in a Sharepoint web application?	14
+Can you disable autohide animation in Visual Studio docking?	7
+Importing txt files to excel makes linebreaks disappear	5
+Adding a SVN repository in Eclipse	3
+Custom Spring sterotype annotation with scope of prototype?	11
+Matlab Polymorphism question	6
+Can you install Qt-4.6.0-wince successfully?	16
+Move Directory across SVN repository using Tortoise SVN	3
+Best practictes for configuring Apache / Tomcat	4
+Can I end editing for the field editor's control without disrupting focus?	8
+Spring Security Max Login Session	11
+Multi-lingual wordpress site?	1
+How to create a tray icon with custom image using QT?	16
+Is there a built-in Haskell equivalent for C++'s std::bind2nd?	19
+How to check if gcc has failed, returned a warning, or succeeded? (in bash)	10
+Hibernate: Enabling lazy fetching in Criteria API	12
+How do I find the correct case of a filename?	8
+Is it possible to see output to stdout in this occasion?	10
+Drupal: Display success/error message	17
+AJAX checkbox if statement	15
+Qt GraphicsScene constantly redrawing	16
+How to change tint color of Cocoa's NSLevelIndicator?	8
+DataContext.CreateDatabase Attribute problem	18
+Why do associated collections contain null values? (Hibernate, Annotation, Spring)	12
+How would you recommend adding an image as a custom field in WordPress?	1
+scala specs don't exit when testing actors	13
+Spring 2.5 Form validation - Dynamic data lost if validator is called?	11
+Can I use Oracle SQL to plot actual dates from Schedule Information?	2
+Hierarchy in Qt [C++]	16
+Change background color of Solution Explorer in Visual Studio	7
+How to make an ASP.Net page with a C# code behind that will work in Sharepoint	14
+How to retrieve XML into Oracle PL/SQL via an HTTP Post transaction?	2
+Hibernate HQL: two levels of joins	12
+Wordpress search results on external page	1
+Error when calling compiled m-file(.jar) in a multi threaded Java app	6
+Arrange Log Entries into Dated Files	10
+Ever need to parse the svn log for files committed by a particular user since a certain date?	3
+Change widget's CSS class names for different category pages in WordPress	1
+Which delegate method I should use When I cliked on a textfield?	8
+"How can I stop Visual Studio (both 2005 and 2008) from crashing (sometimes) when I select the ""Close All But This"" option?"	7
+Escape XML special chsrs in AJAX	15
+Drupal: How to format email message using node invite module?	17
+When using Linq, is DbNull equivalent to Null?	18
+Using awk (or sed) to remove newlines based on first character of next line	10
+order detail with sql query in magento?	20
+Haskell question regarding data	19
+Problems using MySQL instead of MySQLi	17
+Print from Visual Studio Object Browser	7
+reordering an mbox file chronologically	10
+"How to implement in Excel: If cell A1 is 0, cell A2 = ""foo"". Else, let the user specify an input."	5
+TinyMCE adds <pre> tag when inserting from Word	17
+"How to have ""My Cart"" link outside of Top Links?"	20
+mod_pagespeed magento	20
+Problems calling magento API with C#	20
+New folders are not uploaded in SVN	3
+Hibernate named query parameter	12
+Howto: Drupal File Upload Form	17
+Drupal: passing variable from preprocess to template.php?	17
+calling a SP which returns a long select return using LINQ	18
+Euler Problem in Haskell -- Can Someone Spot My Error	19
+How to place multiple content types on a page??	17
+How to set an alias inside a bash shell script	10
+Apache FOP: Displaying UTF-8 Characters in PDF (without embed?)	4
+an axis is not showing up in Matlab	6
+Changing Legend Type in Excel	5
+Why isn't my sheet attached to the window it's run for?	8
+What is the maximum password length in Subversion?	3
+Wordpress Blog RSS Feed Problems	1
+Any bad experiences with xp-dev.com?	3
+How to create a CGGradient for my UIView subclass ?	8
+Are Http-Only cookies a viable option for an AJAX website?	15
+Spring + Hibernate bean declaration error	11
+Programmatically add an alias to the Dock in OS X	9
+How to paginate Views page display?	17
+How to get all tables that have FKs to another table?	2
+localhost != remote server	4
+ReadOnly Property in Custom Column Types in Sharepoint	14
+"SharePoint ""user does not exist or is not unique"" error, on site restore"	14
+In Qt4, how to check if paintEvent is triggered by a resize?	16
+Executing a simple task on another thread in scala	13
+A question about Scala Objects	13
+Real-world examples of Scala applications?	13
+Echoing a string that contains PHP (in WordPress)	1
+Using xvkbd to read a barcode. How to disable Enter key?	10
+Global Find and Replace in Visual Studio	7
+Drupal watchdog database table flooded with same message over and over?	17
+exposition on arrows	19
+"Making an NSTextField act like a ""microwave timer"", store as NSNumber"	8
+Customize the way a Drupal Menu looks like from my Theme	17
+Call stack in compiled matlab	6
+Best blogging software for developer	1
+Is there a reference for the SharePoint XSLT extension functions?	14
+Better control of views output markup?	17
+Why doesn't 'shell' work in VBscript in VS6?	7
+Are SharePoint site templates really less performant than site definitions?	14
+intercepting keystrokes in OSX	9
+Is it possible from Spring to inject the result of calling a method on a ref bean?	11
+Setting nested object to null when combobox has empty value	11
+Spring-samples don't understand the templates	11
+Are there any known issues of VS 2003/2005 and 2008 coexisting?	7
+Controller pages inaccessible in new RoR project...why?	4
+Rails page caching with Apache and capistrano	4
+How can I limit a wordpress meta_box to a single page?	1
+"Can I write programs in Qt and sell them as ""closed sourced""?"	16
+Problems with scrolling in TextView in Gtk2hs and Haskell.	19
+Tool for translation of Oracle PL/SQL into Postgresql PL/pgSQL	2
+In Cocoa, what is the best way to change the cursor when hovering over a circular view?	8
+Concatenate collection of XML tags to string with LINQ	18
+Is there a Matlab-y way to find local maxima in an image?	6
+Excluding one category in Wordpress	1
+Risk of using Apache mod_proxy	4
+.htaccess mod rewrite 301-redirect	4
+Type patterns in Haskell	19
+OS X - terminal - $PATH and ${PATH}	9
+Literal quotes in flags for a command in a bash script	10
+application-context.xml problem for Spring ActionScript	11
+Apache AllowOverride equivalent in Lighttpd	4
+Excel VBA merge multiple columns into one on separate rows	5
+Create a custom worksheet function in Excel VBA	5
+Is there a Drupal module for importing text and images?	17
+How to use dependencies of C++ libs in Visual Studio regarding the header path	7
+Using excel as UI without VB	5
+How to add a checkbox in a alert panel?	8
+Programatically Publishing InfoPath Form As Site ContentType (Not Central Admin)	14
+Getting the last revision number in SVN?	3
+Adding a custom member to a mapped type	18
+if statement error bash	10
+How can I use Tier Pricing with Configurable Products? (Magento 1.4+)	20
+List folders and subfolders from a directory in Excel with hyperlinks?	5
+How do you acess a property of a bean for reading in a spring xml config file?	11
+how wordpress can un-slug a title	1
+OpenGL / C++ / Qt - Advice needed	16
+drupal - add select/option list to a form	17
+Visual Studio, MS Build	7
+Hibernate query: find equal objects	12
+How can I remove an item from a Hashmap in Hibernate ?	12
+What are the details behind the way Wordpress stores user authentication data?	1
+Bash reg-exp substitution	10
+"AJAX VS JSon ""Cross Domain Built-in Security"" Question"	15
+Mocking a Hibernate custom value type	12
+Country name based themeing system on  Magento	20
+What steps do you take to increase performance of a Sharepoint site?	14
+Refering to environment variable in oracle sql files on Linux and Windows	2
+LSOpenURLSpec error	8
+Drupal Content Type (Restaurant) Design	17
+How LINQ works internally?	18
+Bash globbing - autoexpand for a few specific cases?	10
+Magento - Product prices with and without VAT change	20
+Wordpress: How should I keep an xml-file updated with the images attached to a page?	1
+How do I set a friendly name for SharePoint custom property enums?	14
+Disabling interstitial graphic when using cfdiv binding	15
+Daubechies-4 Transform in MATLAB	6
+Estimate Shipping and Tax problem in magento	20
+What is a Simply way to combine groupped values in one field?	2
+Magento loadByAttribute for Custom Category Attributes	20
+Mixing Visual Studio versions OK?	7
+Show warning/error to user without using wp_die	1
+How to elegantly ignore some return values of a Matlab function?	6
+Apache Download: Make sure that page was viewed before download	4
+Scala 2.8 and Lift status	13
+MATLAB ismember() problem	6
+Real-time data in Matlab	6
+Self-extracting web environment	4
+Phone screen questions for Mac OS X developer positions?	9
+What is the difference between scala self-types and trait subclasses?	13
+Hom to change default nls_date_format for oracle jdbc client	2
+newbie question: what role does the indentation play here? and Why one indent doesn't work?	19
+Can a Bash script tell what directory it's in?	10
+Thread pool in Qt 4.3	16
+Is Scala the next big thing?	13
+Using Magento 1.4's WYSIWYG editor on custom admin pages	20
+How do you keep the machine awake?	9
+Error: Attempted to access data(2,:); index out of bounds because size(data)=[1,7129].	6
+Have a script to handle http errors.	4
+What is the purpose of Browse Information generated by Visual Studio	7
+Best SVN Client Ignore Pattern for VB.NET Solutions?	3
+UUID mismatch detected with the loaded library	8
+Insufficiente privileges when creating a trigger for a table in another schema	2
+LinQ ORM Data Objects and Inheritance.	18
+SharePoint and workflows	14
+passing a datatable as a field from Oracle to .NET	2
+Integrating Spring + Hibernate + Sql server with unicode support	11
+resolving svn binary conflicts	3
+SharePoint Permissions - Repeated Login Boxes	14
+JPA Hibernate: How to prevent join on retrieving?	12
+Wordpress: using a test theme only for a specific user	1
+"""Phantom"" directories in an SVN repository"	3
+How to make a post to wordpress using the api?	1
+"""Pivot"" a table in Excel"	5
+Linq list of lists to single list	18
+Cocoa: Quartz, Core Graphics, Context vs View. Oh My!	8
+What's an OCCI context and environment?	2
+What are all the instances of syntactic sugar in Scala?	13
+Delete all but the 4 newest directories	10
+How do I delete a bash function?	10
+undelete the deleted command in bash.	10
+spring - hibernate load *.hbm.xml from classpath resource	11
+wordpress - how to get php variable in page from sidebar	1
+How to detect if filter(s) changed on a worksheet?	5
+Maintain HTTP Referer	4
+How do I find the pixel position of a character in an NSTextView?	8
+Customize the Sharepoint add list column page	14
+"How to modify ""Summary View"" in SharePoint list web part?"	14
+How to create or replace a procedure in Oracle from JBDC?	2
+How to pass values of a form to the sever with Ajax and Jquery?	15
+changing navigation in magento dynamically	20
+Hibernate: When to use getSession() and when to use getCurrentSession()?	12
+Parse DS_Store w/ PHP	9
+Haskell ByteString / Data.Binary.Get question	19
+issue in ajax modal pop up control when  used  witih listbox  control[which is of  a javascript]	15
+Oracle NUMBER problem: Decimal to Int64 cast	2
+hibernate sorting	12
+springdoclet usage?	11
+Adding deriving(Data) to standard types	19
+What plugin would you really like to have for Visual Studio 2005/2008	7
+Scala Actors: Different behavior on JRE 1.5 and 1.6	13
+Making RDoc Ruby Gem Default on Mac OS X	9
+Magento - Adminhtml - Default website in new customer form	20
+Problem with caching (maybe) when using AJAX and PHP	15
+string comparison in bash	10
+What am I missing from my enironment variables for my linker to fail with LNK1181?	16
+The Scala way to use one actor per socket connection	13
+Oracle 10g express home page is not coming up	2
+How do i find my computer's ip address using the bash shell?	10
+OS X - App doesn't show up in force quit.  How do I fix that?	8
+Use of type synonyms in monad transformers	19
+Variable quantity columns report	7
+When using Spring Security, what is the proper way to obtain current username (i.e. SecurityContext) information in a bean?	11
+Synchronizing SVN repo from local to server?	3
+returning untemplated output in drupal from menu callback function	17
+Whay was writtem matlab in C instead of Fortran?	6
+How WP-o-Matic works and how to do the same using ASP.Net?	1
+How to delete / clear all product reviews in magento?	20
+Testing QuickCheck properties against multiple types?	19
+Query string used for AJAX not refreshing.	15
+Retrieving the selected object in an NSOutlineView.	8
+Kill a Ajax Request in between	15
+Is it possible to have a QWidget as a child to a QObject?	16
+Drupal: How to know the type of a tid (term id)?	17
+Change File Save Location	8
+Hibernate/NHibernate : how to persist subclass as instance of superclass	12
+How to point to other table's ID with hibernate?	12
+How to convert QWidget 's image format from ARGB32_PreMultiplied to ARGB32 ?	16
+add more admin and allow permission in magento site	20
+Scala equivalent to Haskell Monads	13
+Haskell Input Return Tuple	19
+parser combinator: how to terminate repetition on keyword	13
+Hibernate Table per Hierarchy How to	12
+Wordpress is ignoring Unicode Chars in URL	1
+Showing an array of certain pages with WP_Query in Wordpress	1
+Use Apache behind Proxy	4
+Querying against LINQ to SQL relationships	18
+Can I limit the size of the array in scala?	13
+How do I specifiy an object directory in a QT project file?	16
+ajax calendar hours and minutes	15
+Access to a Drupal site via an HTTP API	17
+Remove all spacing in QGridLayout	16
+Magento 1.4 - Display category's image	20
+Getting started with Apache, MySQL, and (PHP, Perl, Python) on a Mac	9
+Getting a collection of index values using a LINQ query	18
+NSTextField on top of custom drawing - black outline and cursor not blinking?	8
+Excel formula - auto sum for the same types	5
+Limit Ammount Of Widgets In Wordpress	1
+Matlab GUI: How to Save the Results of Functions (states of application)	6
+refactoring LINQ IQueryable expression to remove duplicated portions of queries	18
+Dependency injection framework for Cocoa?	8
+SharePoint file size limit	14
+Can I coerce Apache into not including a WWW-Authenticate header for failed HTTP Basic Auth?	4
+Cast function for Hibernate	12
+magento - Allow Countries - What does this mean?	20
+LINQ Object Persistance	18
+Where is the best place to put a DB query in drupal?	17
+x84_64 compatibility with 10.5.8	9
+"How to ""unpack"" a structure in haskell"	19
+Shared httpd.conf	4
+protect specific url with .htaccess	4
+sample_en.jsp and sample_fr.jsp in Spring MVC	11
+Can Visual Studio 2008 work with Team System 2005?	7
+How can I *prevent* Apache2 from setting the Content-Type header?	4
+Easy Way to Find Images Used in a Wordpress Post?	1
+SVN management on a project that uses absolute paths.	3
+Magento: externally get relative URL's to categories.	20
+Creating a Haskell Empty Set	19
+Finding out what user Apache is running as?	4
+Parse a dhcpd.lease File with Bash	10
+Wordpress Authenticate Filter	1
+cannot do 2nd level cache	12
+Good Scala slides and snippets?	13
+Any reason to use NSViewAnimation over CoreAnimation techniques?	8
+Wrong amount for item in Quote and Order	20
+What is free tagging?	17
+creating setup for mac application	9
+Wordpress list of authors	1
+Sharepoint custom user and document library specific properties	14
+Direct access to keyboard events in OSX	9
+Using Magento with a simple one-product site	20
+Shared files between projects in Visual Studio	7
+lift CalendarMonthView sample fails with Lift 1.1-SNAPSHOT	13
+AnkhSVN vs VisualSVN	3
+Lock a button while an AJAX call.	15
+How to enter long SQL text sample data with Visual Studio?	7
+Spring & Hibernate SessionFactory - recovery from a down server	11
+Retain cell address when sorting list	5
+Install VS 2008 Prof.	7
+Wordpress Hook Pre Post Update	1
+Magento Store - Extension	20
+What Spring exactly is for?	11
+When to use the equals sign in a Scala method declaration?	13
+Strip Characters Before Period If Filename Has Prefix in Bash	10
+Read and write from/to a binary file in Matlab	6
+Triggering a method when a row in a Table View is edited.	8
+Truncating a table in a stored procedure	2
+Updating the version number of all assemblies in a solution	7
+append a text string to the left of all the cells of a column in excel 2002?	5
+Control 2 seperete Excel instances by COM independantly... can it be done?	5
+Learning Haskell, care to help out?	19
+Is there a limit to the number of Ajax requests that can be launched on Apache	15
+Drag & drop with .ui files	16
+How could I get my SVN-only host to pull from a git repository?	3
+How to do this in ADO.NET Entities Framework	18
+"Access to restricted URI denied"" code: ""1012"	15
+How to text proximity to QGraphicsPathItem?	16
+Username in Wordpress 2.7 Admin not changing based on user	1
+"Matlab: getting ""Unexpected error status flag encountered. Resetting to proper state"""	6
+Vectorizing sums of different diagonals in a matrix	6
+Qt Widget being resized twice upon initialization?	16
+Accessing the child UI elements in a Qt UI	16
+How do you promote blogs to a page other than the home page in drupal?	17
+Unable to find Applications folder in Mac's terminal	9
+How to programatically get current battery level with COCOA	8
+Has anyone successfully re-created the ECB menu on the Data Form web part?	14
+Magento - adding a new field to the product options in admin	20
+Is creating a view on SharePoint tables bad stile?	14
